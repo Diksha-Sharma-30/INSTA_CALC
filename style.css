@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Nunito', sans-serif;   
+  text-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2);
+  color: #006eff;
+}
+
+.button{
+  width: 66px;
+  padding: 18px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  font-size: 20px;           
+  font-weight: bold;
+  background: linear-gradient(135deg, #4e54c8, #8f94fb);;
+  
+}
+
+.row{
+  margin: 6px 0;
+}
+.row input{
+  width: 291px;
+  font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+  background-color: #8a24f0;
+  background: linear-gradient(90deg, #9e4fc9, #8f94fb);
+  
+}
